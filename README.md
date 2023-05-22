@@ -1,6 +1,7 @@
 # data_project - JDBC
 
 Add required dependencies in Maven for JDBC then read data that is available in the database.
+MySQL database is connected using JDBC connection.
 Wrote 4 queries on ipl project such as
 1. Number of matches played per year of all the years in IPL.
 2. Number of matches won of all teams over all the years of IPL.
